@@ -1,4 +1,4 @@
-# D_TGC_tract-geometry-coupling
+<img width="1101" alt="overview" src="https://github.com/user-attachments/assets/d89c12f4-aece-4622-9463-5eebb2dd78ce" /># D_TGC_tract-geometry-coupling
 
 ## Mapping the coupling between tract reachability and cortical geometry of the human brain
 
@@ -6,4 +6,4 @@ Our findings reveal that TGC is a robust measure, exhibiting heritability and pr
 
 The behavior prediction code was from https://github.com/ThomasYeoLab/Standalone_Ooi2022_MMP.git.
 
-<img width="1082" alt="overview" src="https://github.com/user-attachments/assets/ce7b025d-ed1c-47a2-884b-64edb628f935" />
+<img width="1101" alt="overview" src="https://github.com/user-attachments/assets/363fa0cb-c4c9-4c92-aa78-994b530a78ef" />
