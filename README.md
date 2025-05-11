@@ -1,5 +1,3 @@
-<img width="1101" alt="overview" src="https://github.com/user-attachments/assets/d89c12f4-aece-4622-9463-5eebb2dd78ce" /># D_TGC_tract-geometry-coupling
-
 ## Mapping the coupling between tract reachability and cortical geometry of the human brain
 
 Our findings reveal that TGC is a robust measure, exhibiting heritability and predictive power over individual behavioral variation, with low-frequency eigenmodes offering enhanced explanatory potential. The quantitative assessment of the difference between high-/low-frequency TGC, i.e., high-low frequency ratio, highlighted a pronounced coupling between association tracts and high-frequency eigenmodes, with distinct patterns observed across various functional networks. Moreover, a significant correlation was identified between individual TGC profiles and brain activation maps and exhibited non-uniform maturation during youth. In conclusion, our study provides a new approach to mapping the coupling between cortical geometry and connectivity, highlighting how these two aspects jointly shape the connected brain.
