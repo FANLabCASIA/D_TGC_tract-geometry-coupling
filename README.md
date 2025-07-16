@@ -5,13 +5,9 @@ Our findings reveal that TGC is a robust measure, exhibiting heritability and pr
 The behavior prediction code was from https://github.com/ThomasYeoLab/Standalone_Ooi2022_MMP.git.
 
 <img width="1101" alt="overview" src="https://github.com/user-attachments/assets/363fa0cb-c4c9-4c92-aa78-994b530a78ef" />
-# TGC Analysis Codebase
 
-This repository contains scripts and notebooks used to compute, analyze, and visualize Tract Graph Connectivity (TGC) for the figures presented in the associated manuscript.
 
----
-
-## 📂 Code Overview
+## Code Overview
 
 ### Figure 2
 
