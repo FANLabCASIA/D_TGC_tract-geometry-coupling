@@ -12,7 +12,7 @@ The behavior prediction code was from https://github.com/ThomasYeoLab/Standalone
 ### Figure 2
 
 - **`figure2_TGC_calculate.py`**  
-  Computes Tract Graph Connectivity (TGC). Input is the subject ID. Supports batch processing via bash scripting. Outputs include the TGC and reconstruction accuracy for each subject.
+  Computes TGC. Input is the subject ID. Supports batch processing via bash scripting. Outputs include the TGC and reconstruction accuracy for each subject.
 
 - **`figure2_TGC_calculate.ipynb`**  
   Plots the reconstruction accuracy of TGC (Figure 2A) and saves the reconstructed tract reachability maps for comparison with ground truth (Figure 2B).
